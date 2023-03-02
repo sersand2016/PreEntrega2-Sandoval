@@ -1,0 +1,38 @@
+/* HEADER */
+.logo {
+    width: 150px;
+}
+.colorFondo{
+ background-color: #E1F2FE;
+}
+
+.btnPropio{
+    background-color: #b2b1cf;
+}
+
+.btnPropio:hover {
+    background-color: #616163;
+}
+
+
+/* MAIN */
+
+main {
+    text-align: center;
+}
+
+main p {
+    margin: 10px 70px;
+}
+
+main img {
+    margin-top: 30px;
+}
+
+iframe {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+   }
+
+
