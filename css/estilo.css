@@ -35,4 +35,7 @@ iframe {
     width: auto;
    }
 
-
+.imgCarousel {
+    height: 350px;
+    object-fit: cover;
+}
